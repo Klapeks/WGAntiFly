@@ -1,0 +1,7 @@
+name: M_WG_AntiFly
+description: 'AntiFly WorldGuard region flag'
+author: Klapeks
+main: com.klapeks.wg.AntiFly
+version: 1.0
+api-version: 1.13
+softdepend: [KlapeksLibs, WorldGuard]
